@@ -1,7 +1,7 @@
-# StarkNet Exploration
+# Stark Rocket
 
 ## Projects
 
 | Project  | Description                     | Repository                                             | Github Project                                                  |
 | -------- | ------------------------------- | ------------------------------------------------------ | --------------------------------------------------------------- |
-| `Beerus` | StarkNet Trustless Light Client | [link](https://github.com/starknet-exploration/beerus) | [link](https://github.com/orgs/starknet-exploration/projects/1) |
+| `Beerus` | StarkNet Trustless Light Client | [link](https://github.com/stark-rocket/beerus) | [link](https://github.com/orgs/stark-rocket/projects/1) |
