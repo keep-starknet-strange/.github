@@ -25,6 +25,8 @@ Here is the list of projects initiated by the exploration team:
 
 - Sylve from briq for the invention of the motto `Keep StarkNet Strange`
 - Only Dust for the precious help with respect to coordinating contributions
+- All StarkNet builders for the good vibes in the ecosystem and the great innovations
+- Huge love for all contributors to the projects listed above
 
 <div align="center">
     <img src="resources/img/kss.jpeg" >
