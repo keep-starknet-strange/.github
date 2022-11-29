@@ -21,6 +21,11 @@ Here is the list of projects initiated by the exploration team:
 | `Beerus` | StarkNet Trustless Light Client. | [link](https://github.com/stark-rocket/beerus) | [link](https://github.com/orgs/stark-rocket/projects/1) |
 | `Quaireaux` | A set of opiniated Cairo 1.0 libraries and algorithms. | [link](https://github.com/stark-rocket/quaireaux) | [link](https://github.com/orgs/stark-rocket/projects/2/views/1) |
 
+## Acknowledgements
+
+- Sylve from briq for the invention of the motto `Keep StarkNet Strange`
+- Only Dust for the precious help with respect to coordinating contributions
+
 <div align="center">
     <img src="resources/img/kss.jpeg" >
 <div align="center">
