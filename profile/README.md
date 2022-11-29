@@ -11,6 +11,10 @@ We welcome project idea, feel free to submit yours [here](https://github.com/org
 
 The global pipeline of projects and idea can be checked [here](https://github.com/orgs/stark-rocket/projects/3/views/1).
 
+The only rule is that there is no rule, think out of the box and keep starknet strange!
+
+All projects are fully open-sourced from day one. Enjoy and let's build together!
+
 ## Projects
 
 Here is the list of projects initiated by the exploration team:
