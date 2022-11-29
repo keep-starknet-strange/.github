@@ -20,3 +20,7 @@ Here is the list of projects initiated by the exploration team:
 | `Kakarot` | ZK-EVM type 3 written in Cairo, leveraging STARK proof system. | [link](https://github.com/sayajin-labs/kakarot) | [link](https://github.com/orgs/sayajin-labs/projects/3) |
 | `Beerus` | StarkNet Trustless Light Client. | [link](https://github.com/stark-rocket/beerus) | [link](https://github.com/orgs/stark-rocket/projects/1) |
 | `Quaireaux` | A set of opiniated Cairo 1.0 libraries and algorithms. | [link](https://github.com/stark-rocket/quaireaux) | [link](https://github.com/orgs/stark-rocket/projects/2/views/1) |
+
+<div align="center">
+    <img src="resources/img/kss.jpeg" >
+<div align="center">
