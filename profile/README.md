@@ -1,5 +1,5 @@
 <div align="center">
-    <h1>Stark Rocket</h1>
+    <h1>Keep StarkNet Strange</h1>
     <h2>Explore and push the frontiers of StarkWare based technology</h2>
     <img src="resources/img/StarkWare_logo.png" >
 <div align="center">
