@@ -7,7 +7,7 @@
 **Stark Rocket** is the Exploration team at StarkWare. Our goal is to kickstart exciting projects and to work hands in hands with the community.
 We believe this collaboration will help us to understand better the needs of the builders of our ecosystem.
 
-We welcome project idea, feel free to submit yours.
+We welcome project idea, feel free to submit yours [here](https://github.com/orgs/stark-rocket/discussions/new?category=ideas).
 
 ## Projects
 
