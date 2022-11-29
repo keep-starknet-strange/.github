@@ -9,6 +9,8 @@ We believe this collaboration will help us to understand better the needs of the
 
 We welcome project idea, feel free to submit yours [here](https://github.com/orgs/stark-rocket/discussions/new?category=ideas).
 
+The global pipeline of projects and idea can be checked [here](https://github.com/orgs/stark-rocket/projects/3/views/1).
+
 ## Projects
 
 Here is the list of projects initiated by the exploration team:
