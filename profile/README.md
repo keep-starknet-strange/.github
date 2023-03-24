@@ -24,7 +24,7 @@ Here is the list of projects initiated by the exploration team:
 | `Kakarot` | ZK-EVM type 3 written in Cairo, leveraging STARK proof system. | [link](https://github.com/sayajin-labs/kakarot) | [link](https://github.com/orgs/sayajin-labs/projects/3) |
 | `Beerus` | StarkNet Trustless Light Client. | [link](https://github.com/keep-starknet-strange/beerus) | [link](https://github.com/orgs/keep-starknet-strange/projects/1) |
 | `Shenlong` | Sierra to LLVM compiler. | [link](https://github.com/keep-starknet-strange/shenlong) | [link](https://github.com/orgs/keep-starknet-strange/projects/7/views/1) |
-| `Kaioshin` | Kaioshin is a ⚡ blazing fast ⚡ Starknet sequencer, based on substrate and written in Rust 🦀. | https://github.com/keep-starknet-strange/kaioshin | https://github.com/orgs/keep-starknet-strange/projects/10/views/1 |
+| `Madara` | Madara is a ⚡ blazing fast ⚡ Starknet sequencer, based on substrate and written in Rust 🦀. | https://github.com/keep-starknet-strange/madara | https://github.com/orgs/keep-starknet-strange/projects/10/views/1 |
 | `Garaga` | Efficient pairing library using polynomial representation of field elements, written in Cairo | [link](https://github.com/keep-starknet-strange/garaga) | [link](https://github.com/orgs/keep-starknet-strange/projects/5) |
 | `Quaireaux` | A set of opiniated Cairo 1.0 libraries and algorithms. | [link](https://github.com/keep-starknet-strange/quaireaux) | [link](https://github.com/orgs/keep-starknet-strange/projects/2/views/1) |
 | `Poseidon Precompile` | EIP-5988: Add Poseidon hash function precompile | https://eips.ethereum.org/EIPS/eip-5988 | |
