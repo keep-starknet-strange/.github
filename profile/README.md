@@ -25,7 +25,7 @@ Here is the list of projects initiated by the exploration team:
 | `Beerus` | StarkNet Trustless Light Client. | [link](https://github.com/keep-starknet-strange/beerus) | [link](https://github.com/orgs/keep-starknet-strange/projects/1) |
 | `Garaga` | Efficient pairing library using polynomial representation of field elements, written in Cairo | [link](https://github.com/keep-starknet-strange/garaga) | [link](https://github.com/orgs/keep-starknet-strange/projects/5) |
 | `Quaireaux` | A set of opiniated Cairo 1.0 libraries and algorithms. | [link](https://github.com/keep-starknet-strange/quaireaux) | [link](https://github.com/orgs/keep-starknet-strange/projects/2/views/1) |
-| `Poseidon Precompile` | EIP-5988: Add Poseidon hash function precompile | https://eips.ethereum.org/EIPS/eip-5988 | |
+| `Poseidon Precompile` | [link]([EIP-5988: Add Poseidon hash function precompile](https://github.com/keep-starknet-strange/poseidon-rs) | [link](https://eips.ethereum.org/EIPS/eip-5988) |
 
 ## Acknowledgements
 
