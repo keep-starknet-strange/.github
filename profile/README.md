@@ -36,6 +36,5 @@ Here is the list of projects initiated by the exploration team:
 - Huge love for all contributors to the projects listed above
 
 <div align="center">
-    <img src="resources/img/StarkWare_logo.png" >
     <img src="resources/img/kss.jpeg" >
 <div align="center">
