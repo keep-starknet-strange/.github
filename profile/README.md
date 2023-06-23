@@ -21,7 +21,7 @@ Here is the list of projects initiated by the exploration team:
 | Project  | Description                     | Repository                                     | Github Project                                          |
 | -------- | ------------------------------- | ---------------------------------------------- | ------------------------------------------------------- |
 | `Madara` | Madara is a ⚡ blazing fast ⚡ Starknet sequencer, based on substrate and written in Rust 🦀. | [link](https://github.com/keep-starknet-strange/madara) | [link](https://github.com/orgs/keep-starknet-strange/projects/10/views/1) |
-| `Kakarot` | ZK-EVM type 3 written in Cairo, leveraging STARK proof system. | [link](https://github.com/sayajin-labs/kakarot) | [link](https://github.com/orgs/sayajin-labs/projects/3) |
+| `Kakarot` | ZK-EVM type 3 written in Cairo, leveraging STARK proof system. | [link](https://github.com/kkrt-labs/kakarot) | [link](https://github.com/orgs/kkrt-labs/projects/3) |
 | `Beerus` | StarkNet Trustless Light Client. | [link](https://github.com/keep-starknet-strange/beerus) | [link](https://github.com/orgs/keep-starknet-strange/projects/1) |
 | `Garaga` | Efficient pairing library using polynomial representation of field elements, written in Cairo | [link](https://github.com/keep-starknet-strange/garaga) | [link](https://github.com/orgs/keep-starknet-strange/projects/5) |
 | `Alexandria` | A set of opiniated Cairo 1.0 libraries and algorithms. | [link](https://github.com/keep-starknet-strange/alexandria) | [link](https://github.com/orgs/keep-starknet-strange/projects/2/views/1) |
