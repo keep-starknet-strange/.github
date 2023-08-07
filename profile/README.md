@@ -1,9 +1,9 @@
 <div align="center">
-    <h1>Keep StarkNet Strange</h1>
+    <h1>Keep Starknet Strange</h1>
     <h2>Explore and push the frontiers of Starknet and Cairo</h2>
 <div align="center">
 
-**Keep StarkNet Strange** is the Exploration team at StarkWare. Our goal is to kickstart exciting projects and to work hands in hands with the community.
+**Keep Starknet Strange** is the Exploration team at StarkWare. Our goal is to kickstart exciting projects and to work hands in hands with the community.
 We believe this collaboration will help us to understand better the needs of the builders of our ecosystem.
 
 We welcome project idea, feel free to submit yours [here](https://github.com/orgs/keep-starknet-strange/discussions/new?category=ideas).
@@ -22,17 +22,17 @@ Here is the list of projects initiated by the exploration team:
 | -------- | ------------------------------- | ---------------------------------------------- | ------------------------------------------------------- |
 | `Madara` | Madara is a ⚡ blazing fast ⚡ Starknet sequencer, based on substrate and written in Rust 🦀. | [link](https://github.com/keep-starknet-strange/madara) | [link](https://github.com/orgs/keep-starknet-strange/projects/10/views/1) |
 | `Kakarot` | ZK-EVM type 3 written in Cairo, leveraging STARK proof system. | [link](https://github.com/kkrt-labs/kakarot) | [link](https://github.com/orgs/kkrt-labs/projects/3) |
-| `Beerus` | StarkNet Trustless Light Client. | [link](https://github.com/keep-starknet-strange/beerus) | [link](https://github.com/orgs/keep-starknet-strange/projects/1) |
+| `Beerus` | Starknet Trustless Light Client. | [link](https://github.com/keep-starknet-strange/beerus) | [link](https://github.com/orgs/keep-starknet-strange/projects/1) |
 | `Garaga` | Efficient pairing library using polynomial representation of field elements, written in Cairo | [link](https://github.com/keep-starknet-strange/garaga) | [link](https://github.com/orgs/keep-starknet-strange/projects/5) |
 | `Alexandria` | A set of opiniated Cairo 1.0 libraries and algorithms. | [link](https://github.com/keep-starknet-strange/alexandria) | [link](https://github.com/orgs/keep-starknet-strange/projects/2/views/1) |
 | `Poseidon Precompile` | EIP-5988: Add Poseidon hash function precompile | [link](https://github.com/keep-starknet-strange/poseidon-rs) | [link](https://eips.ethereum.org/EIPS/eip-5988) |
 
 ## Acknowledgements
 
-- Sylve from briq for the invention of the motto `Keep StarkNet Strange` 
-- @MazeETh for the beautiful `Keep StarkNet Strange` image that you can find in the bottom of this page
+- Sylve from briq for the invention of the motto `Keep Starknet Strange` 
+- @MazeETh for the beautiful `Keep Starknet Strange` image that you can find in the bottom of this page
 - Only Dust for the precious help with respect to coordinating contributions
-- All StarkNet builders for the good vibes in the ecosystem and the great innovations
+- All Starknet builders for the good vibes in the ecosystem and the great innovations
 - Huge love for all contributors to the projects listed above
 
 <div align="center">
