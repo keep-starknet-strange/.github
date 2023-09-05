@@ -21,6 +21,7 @@ Here is the list of projects initiated by the exploration team:
 | Project  | Description                     | Repository                                     | Github Project                                          |
 | -------- | ------------------------------- | ---------------------------------------------- | ------------------------------------------------------- |
 | `Madara` | Madara is a ⚡ blazing fast ⚡ Starknet sequencer, based on substrate and written in Rust 🦀. | [link](https://github.com/keep-starknet-strange/madara) | [link](https://github.com/orgs/keep-starknet-strange/projects/10/views/1) |
+| `Satoru` | Synthetics platform for Starknet, inspired by GMX v2 design. | [link]([https://github.com/keep-starknet-strange/madara](https://github.com/keep-starknet-strange/satoru) | [link]([https://github.com/orgs/keep-starknet-strange/projects/10/views/1](https://github.com/orgs/keep-starknet-strange/projects/11) |
 | `Kakarot` | ZK-EVM type 3 written in Cairo, leveraging STARK proof system. | [link](https://github.com/kkrt-labs/kakarot) | [link](https://github.com/orgs/kkrt-labs/projects/3) |
 | `Beerus` | StarkNet Trustless Light Client. | [link](https://github.com/keep-starknet-strange/beerus) | [link](https://github.com/orgs/keep-starknet-strange/projects/1) |
 | `Tsubasa` | Tsubasa onchain game built with Dojo, running on a Starknet Appchain. | [link](https://github.com/keep-starknet-strange/tsubasa) | [link](https://github.com/keep-starknet-strange/tsubasa/issues) |
