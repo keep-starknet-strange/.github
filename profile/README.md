@@ -1,7 +1,11 @@
 <div align="center">
     <h1>Keep StarkNet Strange</h1>
     <h2>Explore and push the frontiers of Starknet and Cairo</h2>
+</div>
+
 <div align="center">
+![GitHub Org's stars](https://img.shields.io/github/stars/keep-starknet-strange?style=plastic&logo=github)
+</div>
 
 **Keep StarkNet Strange** is the Exploration team at StarkWare. Our goal is to kickstart exciting projects and to work hands in hands with the community.
 We believe this collaboration will help us to understand better the needs of the builders of our ecosystem.
