@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-[![GitHub Org's stars](https://img.shields.io/github/stars/keep-starknet-strange?style=plastic&logo=github)]
+[![GitHub Org's stars](https://img.shields.io/github/stars/keep-starknet-strange?style=plastic&logo=github)](https://github.com/keep-starknet-strange)
 </div>
 
 **Keep StarkNet Strange** is the Exploration team at StarkWare. Our goal is to kickstart exciting projects and to work hands in hands with the community.
