@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-<img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/keep-starknet-strange?style=plastic&logo=github">
+<img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/keep-starknet-strange?style=plastic&logo=github" height="75">
 </div>
 
 **Keep StarkNet Strange** is the Exploration team at StarkWare. Our goal is to kickstart exciting projects and to work hands in hands with the community.
