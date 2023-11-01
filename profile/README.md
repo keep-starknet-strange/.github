@@ -32,7 +32,7 @@ Here is the list of projects initiated by the exploration team:
 | `Gomu Gomu no Gatling` | Blazing fast tool to benchmark Starknet sequencers 🦀. | [link](https://github.com/keep-starknet-strange/gomu-gomu-no-gatling) | Github issues only |
 | `Tsubasa` | Tsubasa onchain game built with Dojo, running on a Starknet Appchain. | [link](https://github.com/keep-starknet-strange/tsubasa) | [link](https://github.com/keep-starknet-strange/tsubasa/issues) |
 | `Garaga` | Efficient pairing library using polynomial representation of field elements, written in Cairo | [link](https://github.com/keep-starknet-strange/garaga) | [link](https://github.com/orgs/keep-starknet-strange/projects/5) |
-| `Alexandria` | A set of opiniated Cairo 1.0 libraries and algorithms. | [link](https://github.com/keep-starknet-strange/alexandria) | [link](https://github.com/orgs/keep-starknet-strange/projects/2/views/1) |
+| `Alexandria` | A set of opinionated Cairo 1.0 libraries and algorithms. | [link](https://github.com/keep-starknet-strange/alexandria) | [link](https://github.com/orgs/keep-starknet-strange/projects/2/views/1) |
 | `Poseidon Precompile` | EIP-5988: Add Poseidon hash function precompile | [link](https://github.com/keep-starknet-strange/poseidon-rs) | [link](https://eips.ethereum.org/EIPS/eip-5988) |
 
 ## Acknowledgements
