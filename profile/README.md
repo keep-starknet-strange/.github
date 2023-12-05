@@ -28,7 +28,7 @@ Here is the list of projects initiated by the exploration team:
 | `Satoru` | Synthetics platform for Starknet, inspired by GMX v2 design. | [link](https://github.com/keep-starknet-strange/satoru) | [link](https://github.com/orgs/keep-starknet-strange/projects/11) |
 | `Kakarot` | ZK-EVM type 3 written in Cairo, leveraging STARK proof system. | [link](https://github.com/kkrt-labs/kakarot) | [link](https://github.com/orgs/kkrt-labs/projects/3) |
 | `Beerus` | StarkNet Trustless Light Client. | [link](https://github.com/keep-starknet-strange/beerus) | [link](https://github.com/orgs/keep-starknet-strange/projects/1)|
-| `Cairo VM in Zig` | ⚡ Cairo VM in Zig ⚡. | [link](https://github.com/keep-starknet-strange/cairo-zig) | Github issues only |
+| `Ziggy STARKdust` | ⚡ Cairo VM in Zig ⚡. | [link](https://github.com/keep-starknet-strange/ziggy-starkdust) | Github issues only |
 | `Gomu Gomu no Gatling` | Blazing fast tool to benchmark Starknet sequencers 🦀. | [link](https://github.com/keep-starknet-strange/gomu-gomu-no-gatling) | Github issues only |
 | `Tsubasa` | Tsubasa onchain game built with Dojo, running on a Starknet Appchain. | [link](https://github.com/keep-starknet-strange/tsubasa) | [link](https://github.com/keep-starknet-strange/tsubasa/issues) |
 | `Garaga` | Efficient pairing library using polynomial representation of field elements, written in Cairo | [link](https://github.com/keep-starknet-strange/garaga) | [link](https://github.com/orgs/keep-starknet-strange/projects/5) |
