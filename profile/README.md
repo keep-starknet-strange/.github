@@ -7,7 +7,7 @@
 <img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/keep-starknet-strange?style=plastic&logo=github" height="35">
 </div>
 
-**Keep StarkNet Strange** is the Exploration team at StarkWare. Our goal is to kickstart exciting projects and to work hands in hands with the community.
+**Keep Starknet Strange** is the Exploration team at StarkWare. Our goal is to kickstart exciting projects and to work hands in hands with the community.
 We believe this collaboration will help us to understand better the needs of the builders of our ecosystem.
 
 We welcome project idea, feel free to submit yours [here](https://github.com/orgs/keep-starknet-strange/discussions/new?category=ideas).
