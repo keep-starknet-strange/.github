@@ -64,5 +64,5 @@ Here is the list of projects initiated by the exploration team:
 - [Syncing a Fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork)
   
 <div align="center">
-    <img src="[resources/img/kss.jpeg](https://raw.githubusercontent.com/keep-starknet-strange/.github/main/resources/img/kss.jpeg)" >
+    <img src="https://raw.githubusercontent.com/keep-starknet-strange/.github/main/resources/img/kss.jpeg" >
 <div align="center">
