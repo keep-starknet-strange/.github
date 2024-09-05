@@ -60,8 +60,6 @@ Here is the list of projects initiated by the exploration team:
 - [Starknet Foundry Book](https://foundry-rs.github.io/starknet-foundry/)
 - [Starknet By Example](https://starknet-by-example.voyager.online/)
 - [Starkli Book](https://book.starkli.rs/)
-- [blockstream-sn TG](https://t.me/+N7UqCg2hxA4wNTZh)
-- [Syncing a Fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork)
   
 <div align="center">
     <img src="https://raw.githubusercontent.com/keep-starknet-strange/.github/main/resources/img/kss.jpeg" >
