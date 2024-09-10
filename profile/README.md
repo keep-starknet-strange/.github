@@ -26,6 +26,8 @@ Here is the list of projects initiated by the exploration team:
 | -------- | ------------------------------- | ---------------------------------------------- | ------------------------------------------------------- |
 | `Raito` | Bitcoin Client in Cairo. | [link](https://github.com/keep-starknet-strange/raito) | Github issues only |
 | `Shinigami` | Bitcoin Script VM in Cairo. | [link](https://github.com/keep-starknet-strange/shinigami) | Github issues only |
+| `Coconut` | Cashu wallet and mint in Zig. | [link](https://github.com/zig-bitcoin/coconut) | Github issues only |
+| `BtcZee` | Bitcoin protocol implementation in Zig. | [link](https://github.com/zig-bitcoin/btczee) | Github issues only |
 | `zkRamp` | A trustless P2P fiat onramp powered by ZK proofs on Starknet. | [link](https://github.com/keep-starknet-strange/zkramp) | Github issues only |
 | `Joyboy` | Decentralized social built with Nostr and powered by Starknet account abstraction. | [link](https://github.com/keep-starknet-strange/joyboy) | Github issues only |
 | `Vault` | 1-click onboarding with FaceID. 1-click DeFi. Invisible Wallet. | [link](https://github.com/keep-starknet-strange/vault) | Github issues only |
