@@ -42,7 +42,7 @@ Here is the list of projects initiated by the exploration team:
 | `Unruggable Meme` | A framework for building safer memecoins | [link](https://github.com/keep-starknet-strange/unruggable.meme) | Github issues only |
 | `Tokei` | Starknet ERC20 token streaming protocol 💰⏳, inspired by Sablier | [link](https://github.com/starknet-io/tokei) | Github issues only |
 | `Garaga` | Efficient pairing library using polynomial representation of field elements, written in Cairo | [link](https://github.com/keep-starknet-strange/garaga) | [link](https://github.com/orgs/keep-starknet-strange/projects/5) |
-| `Alexandria` | A set of opiniated Cairo 1.0 libraries and algorithms. | [link](https://github.com/keep-starknet-strange/alexandria) | [link](https://github.com/orgs/keep-starknet-strange/projects/2/views/1) |
+| `Alexandria` | A set of opinionated Cairo 1.0 libraries and algorithms. | [link](https://github.com/keep-starknet-strange/alexandria) | [link](https://github.com/orgs/keep-starknet-strange/projects/2/views/1) |
 | `Poseidon Precompile` | EIP-5988: Add Poseidon hash function precompile | [link](https://github.com/keep-starknet-strange/poseidon-rs) | [link](https://eips.ethereum.org/EIPS/eip-5988) |
 | `Tsubasa` | Tsubasa onchain game built with Dojo, running on a Starknet Appchain. | [link](https://github.com/keep-starknet-strange/tsubasa) | Github issues only |
 | `Beerus` | StarkNet Trustless Light Client. | [link](https://github.com/keep-starknet-strange/beerus) | [link](https://github.com/orgs/keep-starknet-strange/projects/1)|
@@ -50,7 +50,7 @@ Here is the list of projects initiated by the exploration team:
 ## Acknowledgements
 
 - Sylve from briq for the invention of the motto `Keep StarkNet Strange` 
-- @MazeETh for the beautiful `Keep StarkNet Strange` image that you can find in the bottom of this page
+- @MazeETh for the beautiful `Keep StarkNet Strange` image that you can find at the bottom of this page
 - Only Dust for the precious help with respect to coordinating contributions
 - All StarkNet builders for the good vibes in the ecosystem and the great innovations
 - Huge love for all contributors to the projects listed above
