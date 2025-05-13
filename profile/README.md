@@ -24,28 +24,22 @@ Here is the list of projects initiated by the exploration team:
 
 | Project  | Description                     | Repository                                     | Github Project                                          |
 | -------- | ------------------------------- | ---------------------------------------------- | ------------------------------------------------------- |
-| `Raito` | Bitcoin Client in Cairo. | [link](https://github.com/keep-starknet-strange/raito) | Github issues only |
-| `Shinigami` | Bitcoin Script VM in Cairo. | [link](https://github.com/keep-starknet-strange/shinigami) | Github issues only |
-| `Coconut` | Cashu wallet and mint in Zig. | [link](https://github.com/zig-bitcoin/coconut) | Github issues only |
+| `Art/peace` | Collaborative art game on Starknet. | [link](https://github.com/keep-starknet-strange/art-peace) | Github issues only |
+| `Broly` | Bitcoin inscription service that uses Starknet for orderbook management | [link](https://github.com/keep-starknet-strange/broly) | Github issues only |
 | `BtcZee` | Bitcoin protocol implementation in Zig. | [link](https://github.com/zig-bitcoin/btczee) | Github issues only |
-| `zkRamp` | A trustless P2P fiat onramp powered by ZK proofs on Starknet. | [link](https://github.com/keep-starknet-strange/zkramp) | Github issues only |
-| `Joyboy` | Decentralized social built with Nostr and powered by Starknet account abstraction. | [link](https://github.com/keep-starknet-strange/joyboy) | Github issues only |
-| `Vault` | 1-click onboarding with FaceID. 1-click DeFi. Invisible Wallet. | [link](https://github.com/keep-starknet-strange/vault) | Github issues only |
-| `Art Peace` | Collaborative art game. | [link](https://github.com/keep-starknet-strange/art-peace) | Github issues only |
-| `Cairo-lint` | A collection of lints to catch common mistakes and improve your Cairo code. | [link](https://github.com/keep-starknet-strange/cairo-lint) | Github issues only |
-| `Starknet Phone` | Incorporates a light client directly into the OS. | [link](https://github.com/keep-starknet-strange/starknet-phone) | Github issues only |
-| `Ziggy STARKdust` | ⚡ Cairo VM in Zig ⚡. | [link](https://github.com/keep-starknet-strange/ziggy-starkdust) | Github issues only |
-| `Madara` | Madara is a ⚡ blazing fast ⚡ Starknet sequencer, based on substrate and written in Rust 🦀. | [link](https://github.com/keep-starknet-strange/madara) | [link](https://github.com/orgs/keep-starknet-strange/projects/10/views/1) |
-| `Satoru` | Synthetics platform for Starknet, inspired by GMX v2 design. | [link](https://github.com/keep-starknet-strange/satoru) | [link](https://github.com/orgs/keep-starknet-strange/projects/11) |
+| `Coconut` | Cashu wallet and mint in Zig. | [link](https://github.com/zig-bitcoin/coconut) | Github issues only |
+| `Frieda` | A Rust implementation of data availability sampling using Fast Reed-Solomon Interactive Oracle Proofs (FRI). | [link](https://github.com/keep-starknet-strange/frieda) | Github issues only |
+| `Garaga` | Efficient pairing library using polynomial representation of field elements, written in Cairo. | [link](https://github.com/keep-starknet-strange/garaga) | [link](https://github.com/orgs/keep-starknet-strange/projects/5) |
 | `Kakarot` | ZK-EVM type 3 written in Cairo, leveraging STARK proof system. | [link](https://github.com/kkrt-labs/kakarot) | [link](https://github.com/orgs/kkrt-labs/projects/3) |
-| `Gomu Gomu no Gatling` | Blazing fast tool to benchmark Starknet sequencers 🦀. | [link](https://github.com/keep-starknet-strange/gomu-gomu-no-gatling) | Github issues only |
-| `Unruggable Meme` | A framework for building safer memecoins | [link](https://github.com/keep-starknet-strange/unruggable.meme) | Github issues only |
-| `Tokei` | Starknet ERC20 token streaming protocol 💰⏳, inspired by Sablier | [link](https://github.com/starknet-io/tokei) | Github issues only |
-| `Garaga` | Efficient pairing library using polynomial representation of field elements, written in Cairo | [link](https://github.com/keep-starknet-strange/garaga) | [link](https://github.com/orgs/keep-starknet-strange/projects/5) |
-| `Alexandria` | A set of opiniated Cairo 1.0 libraries and algorithms. | [link](https://github.com/keep-starknet-strange/alexandria) | [link](https://github.com/orgs/keep-starknet-strange/projects/2/views/1) |
-| `Poseidon Precompile` | EIP-5988: Add Poseidon hash function precompile | [link](https://github.com/keep-starknet-strange/poseidon-rs) | [link](https://eips.ethereum.org/EIPS/eip-5988) |
-| `Tsubasa` | Tsubasa onchain game built with Dojo, running on a Starknet Appchain. | [link](https://github.com/keep-starknet-strange/tsubasa) | Github issues only |
-| `Beerus` | StarkNet Trustless Light Client. | [link](https://github.com/keep-starknet-strange/beerus) | [link](https://github.com/orgs/keep-starknet-strange/projects/1)|
+| `Madara` | Madara is a ⚡ blazing fast ⚡ Starknet sequencer, based on substrate and written in Rust 🦀. | [link](https://github.com/keep-starknet-strange/madara) | [link](https://github.com/orgs/keep-starknet-strange/projects/10/views/1) |
+| `Mikan` | A ZK-Rollup friendly data availability layer built on the Malachite consensus framework. | [link](https://github.com/keep-starknet-strange/mikan) | Github issues only |
+| `POW!` | A clicker game in React-Native on Starknet. | [link](https://github.com/keep-starknet-strange/click-chain) | Github issues only |
+| `Raito` | Bitcoin Client in Cairo. | [link](https://github.com/keep-starknet-strange/raito) | Github issues only |
+| `Scaffold-garaga` | A Noir + Garaga + Starknet starter-kit. | [link](https://github.com/keep-starknet-strange/scaffold-garaga) | Github issues only |
+| `Shinigami` | Bitcoin Script VM in Cairo. | [link](https://github.com/keep-starknet-strange/shinigami) | Github issues only |
+| `Stark-symphony` | STARK verifier in Simfony language. | [link](https://github.com/keep-starknet-strange/stark-symphony) | Github issues only |
+| `Unruggable Meme` | A framework for building safer memecoins. | [link](https://github.com/keep-starknet-strange/unruggable.meme) | Github issues only |
+
 
 ## Acknowledgements
 
