@@ -25,7 +25,7 @@ Here is the list of projects initiated by the exploration team:
 | Project  | Description                     | Repository                                     | Github Project                                          |
 | -------- | ------------------------------- | ---------------------------------------------- | ------------------------------------------------------- |
 | `Art/peace` | Collaborative art game on Starknet. | [link](https://github.com/keep-starknet-strange/art-peace) | Github issues only |
-| `Broly` | Bitcoin inscription service that uses Starknet for orderbook management | [link](https://github.com/keep-starknet-strange/broly) | Github issues only |
+| `Broly` | A decentralized Bitcoin inscription service that uses Starknet for orderbook management. It enables trustless Bitcoin inscriptions with guaranteed payments through smart contracts. | [link](https://github.com/keep-starknet-strange/broly) | Github issues only |
 | `BtcZee` | Bitcoin protocol implementation in Zig. | [link](https://github.com/zig-bitcoin/btczee) | Github issues only |
 | `Coconut` | Cashu wallet and mint in Zig. | [link](https://github.com/zig-bitcoin/coconut) | Github issues only |
 | `Frieda` | A Rust implementation of data availability sampling using Fast Reed-Solomon Interactive Oracle Proofs (FRI). | [link](https://github.com/keep-starknet-strange/frieda) | Github issues only |
@@ -34,7 +34,7 @@ Here is the list of projects initiated by the exploration team:
 | `Madara` | Madara is a ⚡ blazing fast ⚡ Starknet sequencer, based on substrate and written in Rust 🦀. | [link](https://github.com/keep-starknet-strange/madara) | [link](https://github.com/orgs/keep-starknet-strange/projects/10/views/1) |
 | `Mikan` | A ZK-Rollup friendly data availability layer built on the Malachite consensus framework. | [link](https://github.com/keep-starknet-strange/mikan) | Github issues only |
 | `POW!` | A clicker game in React-Native on Starknet. | [link](https://github.com/keep-starknet-strange/click-chain) | Github issues only |
-| `Raito` | Bitcoin Client in Cairo. | [link](https://github.com/keep-starknet-strange/raito) | Github issues only |
+| `Raito` | Bitcoin consensus client written in Cairo, implementing the same block validation logic as Bitcoin Core but in a provable language. | [link](https://github.com/keep-starknet-strange/raito) | Github issues only |
 | `Scaffold-garaga` | A Noir + Garaga + Starknet starter-kit. | [link](https://github.com/keep-starknet-strange/scaffold-garaga) | Github issues only |
 | `Shinigami` | Bitcoin Script VM in Cairo. | [link](https://github.com/keep-starknet-strange/shinigami) | Github issues only |
 | `Stark-symphony` | STARK verifier in Simfony language. | [link](https://github.com/keep-starknet-strange/stark-symphony) | Github issues only |
